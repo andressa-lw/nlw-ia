@@ -1,5 +1,5 @@
 <p align="center">
- <img src=".github/capa.jpg" alt="NLW IA Mastery">
+ <img src=".github/capa.png" alt="NLW IA Mastery">
 </p>
 
 <div align="center">
